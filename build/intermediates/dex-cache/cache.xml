@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/jp.wasabeef/blurry/0.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b11bc156338624ec19c54acf36ccd7775fc622a">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-blurry-0.0.3_c084af3f9f109498044981b1be10add58d16860d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/kenburnsview-1.0.7_1f589659acdf8c3e94e0e02a94a0d431c899c203/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_0c9f1afb24858dc09f85d171d8303f5e6945af8e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.6.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ksoichiro-android-observablescrollview-1.6.0_f8164ce157fe4fb2242d454988d89e491384da5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30368b7c5031e5d51201e5befedafbd49d1e4d78">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99882b6f500b0f53f19509187a5ac30574f3a657/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_f767edd67a60c467e544e26a9162c2b2f5777edd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9ff23cfee58604d761e10da5e20177463412d7b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f07e971d7def89ae95cb2ec812cb40c016de9a1a">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_00c5c17185dfda2ee35130f926f16641c0fd3204/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f1fdb676cea77c28b466bd4fa59c0ea1202149f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.9.2/5e3bda828a80c7a21dfbe2308d1755759c2fd7b4/jsoup-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.9.2_0ec57244efa8af53ace1eb8d7fdf36548da42efe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.github.florent37/carpaccio/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d509b0aadf75710289b69a781bc1133eb303775d">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-carpaccio-1.0.1_71e0d14163c4df679e5784c98c16ad1c23b90b06/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.github.florent37/materialimageloading/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1d1721d9db29c14df4fc57b78d2ace9709ab7b30">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-materialimageloading-1.0.1_87903284728e9210e2a302fac34d54364630d017/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.jpardogo.materialtabstrip-library-1.1.0_096c14f834794f02ee93394ecb4600f4171adc6e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_d6e9f0f8df9dcfa8a83de4d80a37411ed31d5edb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_f602306977bb6a820e6bceeb7e731586dc33781f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_ba5b5514bb4d1b0d360033fa5df80e448513d244/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_83c54519efabd1a3ddd830f0c5c9a1e62da36de0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_e209259cf334ea94a4f643813be63ee936e71e24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_6ddcf1855b01f7536d0a7ab6bcdef6bace44cea5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_3f3889e58c0cf1cb01031880f25d35592393a154/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_3e2b869b1c1d03e508715abee463038a8d076313/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/cormacpjkinsella/Documents/Projects/Trendster/Android/MaterialViewPager-master-2/trendster/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_00c58e2ad12eea34ff3660a794c917c22fbdd16e/classes.dex" />
+    </item>
+
+</items>
